@@ -1,0 +1,232 @@
+sending slot 1
+learning start
+slot 1, parent 0, max_prob 1, total 100 ==>  setting strategy, parent 255 
+slot 2, parent 6, max_prob 55, total 100 ==>  setting strategy, parent 6 
+slot 3, parent 6, max_prob 2, total 100 ==>  setting strategy, parent 255 
+slot 4, parent 0, max_prob 84, total 100 ==>  setting strategy, parent 0 
+slot 5, parent 7, max_prob 24, total 100 ==>  setting strategy, parent 255 
+slot 6, parent 7, max_prob 11, total 100 ==>  setting strategy, parent 255 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=10, activity=5.80%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=20, activity=2.20%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=30, activity=2.20%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=40, activity=2.40%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=50, activity=2.30%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=60, activity=2.40%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=70, activity=2.50%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=80, activity=2.20%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=90, activity=2.30%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=100, activity=2.40%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=110, activity=2.30%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=120, activity=2.30%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=130, activity=2.20%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=140, activity=2.30%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=150, activity=2.30%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=160, activity=2.40%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=170, activity=2.20%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=180, activity=2.40%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=190, activity=2.30%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+sent=200, activity=2.30%
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 
+slot 4: from 4! 

@@ -1,0 +1,37 @@
+sending slot 9
+slot 1, parent 0, max_prob 7, total 151 ==>  setting strategy, parent 255 
+slot 2, parent 1, max_prob 7, total 152 ==>  setting strategy, parent 255 
+slot 3, parent 1, max_prob 1, total 152 ==>  setting strategy, parent 255 
+slot 5, parent 0, max_prob 1, total 151 ==>  setting strategy, parent 255 
+slot 6, parent 1, max_prob 1, total 152 ==>  setting strategy, parent 255 
+slot 7, parent 0, max_prob 9, total 152 ==>  setting strategy, parent 255 
+slot 9, parent 1, max_prob 1, total 151 ==>  setting strategy, parent 255 
+slot 10, parent 1, max_prob 82, total 151 ==>  setting strategy, parent 1 
+slot 11, parent 1, max_prob 1, total 152 ==>  setting strategy, parent 255 
+slot 12, parent 0, max_prob 84, total 151 ==>  setting strategy, parent 0 
+slot 13, parent 1, max_prob 75, total 152 ==>  setting strategy, parent 1 
+slot 14, parent 0, max_prob 68, total 152 ==>  setting strategy, parent 0 
+slot 15, parent 1, max_prob 51, total 152 ==>  setting strategy, parent 1 
+sent=10, activity=8.20%
+sent=20, activity=6.70%
+sent=30, activity=6.20%
+sent=40, activity=6.80%
+sent=50, activity=6.70%
+sent=60, activity=10.20%
+sent=70, activity=7.40%
+sent=80, activity=7.0%
+sent=90, activity=6.40%
+sent=100, activity=5.30%
+sent=110, activity=5.40%
+sent=120, activity=5.60%
+sent=130, activity=5.40%
+sent=140, activity=5.80%
+sent=150, activity=5.40%
+sent=160, activity=6.80%
+sent=170, activity=4.90%
+sent=180, activity=4.70%
+sent=190, activity=4.60%
+sent=200, activity=4.20%
+sent=210, activity=4.50%
+sent=220, activity=4.40%
+sent=230, activity=4.80%

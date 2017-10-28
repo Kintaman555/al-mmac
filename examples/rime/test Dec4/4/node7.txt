@@ -1,0 +1,41 @@
+sending slot 5
+slot 1, parent 1, max_prob 1, total 150 ==>  setting strategy, parent 255 
+slot 3, parent 0, max_prob 38, total 150 ==>  setting strategy, parent 255 
+slot 5, parent 1, max_prob 22, total 150 ==>  setting strategy, parent 255 
+slot 6, parent 1, max_prob 93, total 150 ==>  setting strategy, parent 1 
+slot 7, parent 1, max_prob 2, total 150 ==>  setting strategy, parent 255 
+slot 8, parent 0, max_prob 4, total 150 ==>  setting strategy, parent 255 
+slot 9, parent 1, max_prob 2, total 150 ==>  setting strategy, parent 255 
+slot 10, parent 0, max_prob 2, total 150 ==>  setting strategy, parent 255 
+slot 11, parent 1, max_prob 3, total 150 ==>  setting strategy, parent 255 
+slot 12, parent 1, max_prob 1, total 150 ==>  setting strategy, parent 255 
+slot 13, parent 0, max_prob 2, total 150 ==>  setting strategy, parent 255 
+slot 14, parent 1, max_prob 2, total 150 ==>  setting strategy, parent 255 
+slot 15, parent 0, max_prob 1, total 150 ==>  setting strategy, parent 255 
+sent	5	act	5.90%
+sent	10	act	5.80%
+sent	15	act	5.70%
+sent	20	act	5.60%
+sent	25	act	5.50%
+sent	30	act	5.40%
+sent	35	act	5.30%
+sent	40	act	5.20%
+sent	45	act	5.20%
+sent	50	act	5.10%
+sent	55	act	5.0%
+sent	60	act	5.0%
+sent	65	act	4.90%
+sent	70	act	4.80%
+sent	75	act	4.80%
+sent	80	act	4.70%
+sent	85	act	4.70%
+sent	90	act	4.60%
+sent	95	act	4.70%
+sent	100	act	4.70%
+sent	105	act	4.70%
+sent	110	act	4.80%
+sent	115	act	4.80%
+sent	120	act	4.80%
+sent	125	act	4.80%
+sent	130	act	4.80%
+sent	135	act	4.90%

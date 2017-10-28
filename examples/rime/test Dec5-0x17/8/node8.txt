@@ -1,0 +1,71 @@
+sending slot 3
+slot 1, parent 0, max_prob 3, total 150 ==>  setting strategy, parent 255 
+slot 3, parent 0, max_prob 2, total 150 ==>  setting strategy, parent 255 
+slot 4, parent 5, max_prob 56, total 150 ==>  setting strategy, parent 5 
+slot 5, parent 6, max_prob 1, total 150 ==>  setting strategy, parent 255 
+slot 6, parent 0, max_prob 16, total 150 ==>  setting strategy, parent 255 
+slot 7, parent 7, max_prob 10, total 150 ==>  setting strategy, parent 255 
+slot 8, parent 5, max_prob 4, total 150 ==>  setting strategy, parent 255 
+slot 9, parent 7, max_prob 7, total 150 ==>  setting strategy, parent 255 
+slot 10, parent 5, max_prob 1, total 150 ==>  setting strategy, parent 255 
+slot 12, parent 5, max_prob 1, total 150 ==>  setting strategy, parent 255 
+slot 15, parent 6, max_prob 2, total 150 ==>  setting strategy, parent 255 
+sent	5	act	7.90%
+sent	10	act	7.70%
+sent	15	act	7.50%
+sent	20	act	7.40%
+sent	25	act	7.30%
+sent	30	act	7.10%
+sent	35	act	7.0%
+sent	40	act	6.90%
+sent	45	act	6.80%
+sent	50	act	6.70%
+sent	55	act	6.60%
+sent	60	act	6.50%
+sent	65	act	6.40%
+sent	70	act	6.30%
+sent	75	act	6.20%
+sent	80	act	6.10%
+sent	85	act	6.0%
+sent	90	act	5.90%
+sent	95	act	5.90%
+sent	100	act	5.80%
+sent	105	act	5.70%
+sent	110	act	5.60%
+sent	115	act	5.60%
+sent	120	act	5.50%
+sent	125	act	5.40%
+sent	130	act	5.40%
+sent	135	act	5.30%
+sent	140	act	5.30%
+sent	145	act	5.20%
+sent	150	act	5.20%
+sent	155	act	5.10%
+sent	160	act	5.10%
+sent	165	act	5.0%
+sent	170	act	5.0%
+sent	175	act	4.90%
+sent	180	act	4.90%
+sent	185	act	4.80%
+sent	190	act	4.80%
+sent	195	act	4.70%
+sent	200	act	4.70%
+sent	205	act	4.70%
+sent	210	act	4.60%
+sent	215	act	4.60%
+sent	220	act	4.50%
+sent	225	act	4.50%
+sent	230	act	4.50%
+sent	235	act	4.40%
+sent	240	act	4.40%
+sent	245	act	4.40%
+sent	250	act	4.30%
+sent	255	act	4.30%
+sent	260	act	4.30%
+sent	265	act	4.30%
+sent	270	act	4.20%
+sent	275	act	4.20%
+sent	280	act	4.20%
+sent	285	act	4.10%
+sent	290	act	4.10%
+sent	295	act	4.10%

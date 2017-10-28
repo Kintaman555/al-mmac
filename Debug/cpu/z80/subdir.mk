@@ -1,0 +1,27 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../cpu/z80/mtarch.c \
+../cpu/z80/uip_arch.c 
+
+OBJS += \
+./cpu/z80/mtarch.o \
+./cpu/z80/uip_arch.o 
+
+C_DEPS += \
+./cpu/z80/mtarch.d \
+./cpu/z80/uip_arch.d 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+cpu/z80/%.o: ../cpu/z80/%.c
+	@echo 'Building file: $<'
+	@echo 'Invoking: GCC C Compiler'
+	gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -o"$@" "$<"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+

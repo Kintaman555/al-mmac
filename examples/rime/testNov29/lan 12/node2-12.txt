@@ -1,0 +1,11 @@
+slot 8, parent 8, max_prob 94, total 152 ==>  setting strategy, parent 8 
+sent=10, activity=5.90%
+sent=20, activity=1.60%
+sent=30, activity=1.70%
+sent=40, activity=2.50%
+sent=50, activity=7.0%
+sent=60, activity=5.40%
+sent=70, activity=10.0%
+sent=80, activity=8.70%
+sent=90, activity=7.40%
+sent=100, activity=7.30%

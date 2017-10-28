@@ -1,0 +1,2 @@
+../../tools/sky/serialdump-linux -b115200 /dev/ttyUSB0
+sending slot 0

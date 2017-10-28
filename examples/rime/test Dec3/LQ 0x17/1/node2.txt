@@ -1,0 +1,34 @@
+bc-from	1	LQI	69	seq	11	recv	1
+sending slot 5
+slot 6, parent 10, max_prob 90, total 151 ==>  setting strategy, parent 10 
+sent	5	act	5.60%
+sent	10	act	5.50%
+sent	15	act	5.50%
+sent	20	act	5.50%
+sent	25	act	5.40%
+sent	30	act	5.40%
+sent	35	act	5.40%
+sent	40	act	5.30%
+sent	45	act	5.30%
+sent	50	act	5.20%
+sent	55	act	5.20%
+sent	60	act	5.20%
+sent	65	act	5.20%
+sent	70	act	5.20%
+sent	75	act	5.20%
+sent	80	act	5.20%
+sent	85	act	5.20%
+sent	90	act	5.20%
+sent	95	act	5.20%
+sent	100	act	5.20%
+sent	105	act	5.20%
+sent	110	act	5.20%
+sent	115	act	5.20%
+sent	120	act	5.20%
+sent	125	act	5.20%
+sent	130	act	5.20%
+sent	135	act	5.30%
+sent	140	act	5.30%
+sent	145	act	5.30%
+sent	150	act	5.30%
+sent	155	act	5.30%

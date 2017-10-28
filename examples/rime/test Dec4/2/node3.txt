@@ -1,0 +1,25 @@
+sending slot 8
+slot 9, parent 8, max_prob 97, total 150 ==>  setting strategy, parent 8 
+sent	5	act	2.90%
+sent	10	act	2.90%
+sent	15	act	2.80%
+sent	20	act	2.80%
+sent	25	act	2.80%
+sent	30	act	2.80%
+sent	35	act	2.70%
+sent	40	act	2.70%
+sent	45	act	2.70%
+sent	50	act	2.70%
+sent	55	act	2.70%
+sent	60	act	2.60%
+sent	65	act	2.60%
+sent	70	act	2.60%
+sent	75	act	2.60%
+sent	80	act	2.60%
+sent	85	act	2.50%
+sent	90	act	2.50%
+sent	95	act	2.50%
+sent	100	act	2.50%
+sent	105	act	2.50%
+sent	110	act	2.50%
+sent	115	act	2.50%

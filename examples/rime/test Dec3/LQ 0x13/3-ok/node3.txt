@@ -1,0 +1,3 @@
+bc-from	1	LQI	78	seq	100	recv	3
+bc-from	1	LQI	86	seq	116	recv	4
+sending slot 10

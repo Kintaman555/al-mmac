@@ -1,0 +1,17 @@
+../../tools/sky/serialdump-linux -b115200 /dev/ttyUSB0
+
+recv=1890, activity=5.40%, latency=28
+recv=1920, activity=5.40%, latency=28
+recv=1950, activity=5.40%, latency=28
+recv=1980, activity=5.50%, latency=28
+recv=2010, activity=5.0%, latency=28
+recv=2040, activity=5.20%, latency=28
+recv=2070, activity=13.90%, latency=28
+recv=2100, activity=15.80%, latency=28
+recv=2130, activity=14.40%, latency=28
+recv=2160, activity=13.70%, latency=28
+recv=2190, activity=10.50%, latency=28
+recv=2220, activity=5.20%, latency=28
+recv=2250, activity=5.0%, latency=29
+recv=2280, activity=5.60%, latency=28
+recv=2310, activity=5.40%, latency=28

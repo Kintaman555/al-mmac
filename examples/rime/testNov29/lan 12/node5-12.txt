@@ -1,0 +1,19 @@
+slot 3, parent 0, max_prob 91, total 150 ==>  setting strategy, parent 0 
+slot 4, parent 1, max_prob 19, total 150 ==>  setting strategy, parent 255 
+slot 5, parent 1, max_prob 64, total 150 ==>  setting strategy, parent 1 
+slot 7, parent 0, max_prob 93, total 150 ==>  setting strategy, parent 0 
+slot 8, parent 1, max_prob 94, total 150 ==>  setting strategy, parent 1 
+slot 9, parent 0, max_prob 80, total 150 ==>  setting strategy, parent 0 
+slot 10, parent 1, max_prob 76, total 150 ==>  setting strategy, parent 1 
+slot 15, parent 1, max_prob 92, total 150 ==>  setting strategy, parent 1 
+sent=10, activity=8.10%
+sent=20, activity=7.80%
+sent=30, activity=8.0%
+sent=40, activity=8.10%
+sent=50, activity=7.70%
+sent=60, activity=7.90%
+sent=70, activity=7.70%
+sent=80, activity=7.90%
+sent=90, activity=7.70%
+sent=100, activity=7.80%
+sent=110, activity=7.90%

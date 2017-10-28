@@ -1,0 +1,61 @@
+bc-from	1	LQI	91	seq	19	recv	4
+bc-from	1	LQI	91	seq	23	recv	5
+bc-from	1	LQI	71	seq	27	recv	6
+bc-from	1	LQI	81	seq	31	recv	7
+bc-from	1	LQI	73	seq	35	recv	8
+bc-from	1	LQI	97	seq	39	recv	9
+bc-from	1	LQI	82	seq	43	recv	10
+bc-from	1	LQI	99	seq	50	recv	11
+bc-from	1	LQI	84	seq	54	recv	12
+bc-from	1	LQI	77	seq	58	recv	13
+bc-from	1	LQI	84	seq	62	recv	14
+bc-from	1	LQI	95	seq	66	recv	15
+bc-from	1	LQI	81	seq	73	recv	16
+bc-from	1	LQI	92	seq	77	recv	17
+bc-from	1	LQI	92	seq	81	recv	18
+bc-from	1	LQI	82	seq	85	recv	19
+bc-from	1	LQI	84	seq	89	recv	20
+bc-from	1	LQI	81	seq	93	recv	21
+bc-from	1	LQI	95	seq	96	recv	22
+bc-from	1	LQI	95	seq	99	recv	23
+bc-from	1	LQI	96	seq	104	recv	24
+bc-from	1	LQI	94	seq	108	recv	25
+bc-from	1	LQI	69	seq	115	recv	26
+bc-from	1	LQI	78	seq	118	recv	27
+sending slot 10
+slot 11, parent 10, max_prob 53, total 150 ==>  setting strategy, parent 10 
+slot 12, parent 10, max_prob 10, total 150 ==>  setting strategy, parent 255 
+sent	5	act	5.0%
+sent	10	act	4.90%
+bc-from	1	LQI	78	seq	141	recv	28
+sent	15	act	4.90%
+bc-from	1	LQI	83	seq	143	recv	29
+bc-from	1	LQI	74	seq	145	recv	30
+bc-from	1	LQI	92	seq	147	recv	31
+sent	20	act	4.80%
+bc-from	1	LQI	93	seq	149	recv	32
+sent	25	act	4.80%
+sent	30	act	4.70%
+sent	35	act	4.70%
+sent	40	act	4.60%
+sent	45	act	4.60%
+sent	50	act	4.50%
+sent	55	act	4.50%
+sent	60	act	4.40%
+bc-from	1	LQI	91	seq	191	recv	33
+sent	65	act	4.40%
+bc-from	1	LQI	83	seq	193	recv	34
+bc-from	1	LQI	86	seq	197	recv	35
+sent	70	act	4.30%
+bc-from	1	LQI	91	seq	199	recv	36
+bc-from	1	LQI	82	seq	201	recv	37
+sent	75	act	4.30%
+bc-from	1	LQI	86	seq	203	recv	38
+sent	80	act	4.30%
+sent	85	act	4.20%
+sent	90	act	4.20%
+sent	95	act	4.20%
+sent	100	act	4.10%
+sent	105	act	4.10%
+sent	110	act	4.10%
+sent	115	act	4.0%

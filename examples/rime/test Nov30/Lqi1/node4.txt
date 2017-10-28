@@ -1,0 +1,2 @@
+sending slot 8
+sent=10, activity=4.30%

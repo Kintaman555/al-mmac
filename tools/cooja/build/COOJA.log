@@ -1,0 +1,135 @@
+[05:33:48 - AWT-EventQueue-0] [GUI.java:2660] [INFO] - External tools default settings: /external_tools_linux.config
+[05:33:48 - AWT-EventQueue-0] [GUI.java:2690] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[05:33:53 - AWT-EventQueue-0] [Simulation.java:409] [INFO] - Simulation random seed: 123456
+[05:34:18 - AWT-EventQueue-0] [GUI.java:3898] [WARN] - Path is not portable: '/home/user/workspace/contiki-wisn/examples/rime/example-collect.c
+[05:34:18 - AWT-EventQueue-0] [CompileContiki.java:131] [INFO] - > make example-collect.sky TARGET=sky 
+[05:34:24 - AWT-EventQueue-0] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/workspace/contiki-wisn/examples/rime/example-collect.sky
+[05:34:25 - AWT-EventQueue-0] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/workspace/contiki-wisn/examples/rime/example-collect.sky
+[05:34:32 - Thread-3] [Simulation.java:243] [INFO] - Simulation main loop started, system time: 1350380072892
+[05:34:33 - Thread-3] [MspMote.java:363] [FATAL] - Stack Trace: number of calls: 1 PC: $0168
+  IE1 (gcrt0.S) called from PC: $4b4c (elapsed: 18)
+
+[05:34:33 - Thread-3] [Simulation.java:282] [FATAL] - Simulation stopped due to error: null
+se.sics.cooja.ContikiError
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:333)
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:300)
+	at se.sics.cooja.motes.AbstractWakeupMote$1.execute(AbstractWakeupMote.java:48)
+	at se.sics.cooja.Simulation.run(Simulation.java:270)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: se.sics.mspsim.core.EmulationException: TimerA Trying to write to non-existent CCTL register: 3
+	at se.sics.mspsim.core.Timer.updateTCCTL(Timer.java:538)
+	at se.sics.mspsim.core.Timer.read(Timer.java:504)
+	at se.sics.mspsim.core.MSP430Core.read(MSP430Core.java:748)
+	at se.sics.mspsim.core.MSP430Core.emulateOP(MSP430Core.java:986)
+	at se.sics.mspsim.core.MSP430.stepMicros(MSP430.java:265)
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:327)
+	... 4 more
+[05:34:53 - Thread-3] [Simulation.java:297] [INFO] - Simulation main loop stopped, system time: 1350380093975	Duration: 21083 ms	Simulated time 497 ms	Ratio 0.023573495233126216
+[05:35:47 - Thread-5] [GUI.java:3898] [WARN] - Path is not portable: '/home/user/workspace/contiki-wisn/examples/rime/example-collect.c
+[05:35:47 - Thread-5] [GUI.java:3898] [WARN] - Path is not portable: '/home/user/workspace/contiki-wisn/examples/rime/example-collect.sky
+[05:35:47 - Thread-5] [Simulation.java:409] [INFO] - Simulation random seed: 123456
+[05:35:47 - Thread-5] [CompileContiki.java:131] [INFO] - > make example-collect.sky TARGET=sky 
+[05:35:58 - Thread-5] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/workspace/contiki-wisn/examples/rime/example-collect.sky
+[05:35:59 - Thread-5] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/workspace/contiki-wisn/examples/rime/example-collect.sky
+[05:36:04 - Thread-6] [Simulation.java:243] [INFO] - Simulation main loop started, system time: 1350380164480
+[05:36:05 - Thread-6] [MspMote.java:363] [FATAL] - Stack Trace: number of calls: 1 PC: $0168
+  IE1 (gcrt0.S) called from PC: $4b4c (elapsed: 18)
+
+[05:36:05 - Thread-6] [Simulation.java:282] [FATAL] - Simulation stopped due to error: null
+se.sics.cooja.ContikiError
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:333)
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:300)
+	at se.sics.cooja.motes.AbstractWakeupMote$1.execute(AbstractWakeupMote.java:48)
+	at se.sics.cooja.Simulation.run(Simulation.java:270)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: se.sics.mspsim.core.EmulationException: TimerA Trying to write to non-existent CCTL register: 3
+	at se.sics.mspsim.core.Timer.updateTCCTL(Timer.java:538)
+	at se.sics.mspsim.core.Timer.read(Timer.java:504)
+	at se.sics.mspsim.core.MSP430Core.read(MSP430Core.java:748)
+	at se.sics.mspsim.core.MSP430Core.emulateOP(MSP430Core.java:986)
+	at se.sics.mspsim.core.MSP430.stepMicros(MSP430.java:265)
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:327)
+	... 4 more
+[05:36:07 - Thread-6] [Simulation.java:297] [INFO] - Simulation main loop stopped, system time: 1350380167531	Duration: 3051 ms	Simulated time 497 ms	Ratio 0.1628974106850213
+[05:36:33 - Thread-8] [Simulation.java:243] [INFO] - Simulation main loop started, system time: 1350380193522
+[05:36:33 - Thread-8] [MspMote.java:363] [FATAL] - Stack Trace: number of calls: 1 PC: $0168
+  IE1 (gcrt0.S) called from PC: $4b4c (elapsed: 18)
+
+[05:36:33 - Thread-8] [Simulation.java:282] [FATAL] - Simulation stopped due to error: null
+se.sics.cooja.ContikiError
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:333)
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:300)
+	at se.sics.cooja.motes.AbstractWakeupMote$1.execute(AbstractWakeupMote.java:48)
+	at se.sics.cooja.Simulation.run(Simulation.java:270)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: se.sics.mspsim.core.EmulationException: TimerA Trying to write to non-existent CCTL register: 3
+	at se.sics.mspsim.core.Timer.updateTCCTL(Timer.java:538)
+	at se.sics.mspsim.core.Timer.read(Timer.java:504)
+	at se.sics.mspsim.core.MSP430Core.read(MSP430Core.java:748)
+	at se.sics.mspsim.core.MSP430Core.emulateOP(MSP430Core.java:986)
+	at se.sics.mspsim.core.MSP430.stepMicros(MSP430.java:265)
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:327)
+	... 4 more
+[05:36:35 - Thread-8] [Simulation.java:297] [INFO] - Simulation main loop stopped, system time: 1350380195886	Duration: 2364 ms	Simulated time 643 ms	Ratio 0.2719966159052453
+[05:36:39 - AWT-EventQueue-0] [Simulation.java:409] [INFO] - Simulation random seed: 123456
+[05:37:01 - AWT-EventQueue-0] [GUI.java:3898] [WARN] - Path is not portable: '/home/user/workspace/contiki-uart/examples/rime/example-collect.c
+[05:37:02 - AWT-EventQueue-0] [CompileContiki.java:131] [INFO] - > make example-collect.sky TARGET=sky 
+[05:37:17 - AWT-EventQueue-0] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/workspace/contiki-uart/examples/rime/example-collect.sky
+[05:37:17 - AWT-EventQueue-0] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/workspace/contiki-uart/examples/rime/example-collect.sky
+[05:37:17 - AWT-EventQueue-0] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/workspace/contiki-uart/examples/rime/example-collect.sky
+[05:37:18 - AWT-EventQueue-0] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/workspace/contiki-uart/examples/rime/example-collect.sky
+[05:37:18 - AWT-EventQueue-0] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/workspace/contiki-uart/examples/rime/example-collect.sky
+[05:37:20 - Thread-10] [Simulation.java:243] [INFO] - Simulation main loop started, system time: 1350380240099
+[05:37:31 - Thread-10] [Simulation.java:297] [INFO] - Simulation main loop stopped, system time: 1350380251156	Duration: 11057 ms	Simulated time 3452 ms	Ratio 0.31220041602604687
+[05:40:16 - AWT-EventQueue-0] [Simulation.java:409] [INFO] - Simulation random seed: 123456
+[05:40:34 - AWT-EventQueue-0] [GUI.java:3898] [WARN] - Path is not portable: '/home/user/workspace/contiki-wisn/examples/rime/example-collect.c
+[05:40:35 - AWT-EventQueue-0] [CompileContiki.java:131] [INFO] - > make example-collect.sky TARGET=sky 
+[05:41:02 - AWT-EventQueue-0] [CompileContiki.java:131] [INFO] - > make example-collect.sky TARGET=sky 
+[05:41:19 - AWT-EventQueue-0] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/workspace/contiki-wisn/examples/rime/example-collect.sky
+[05:41:20 - AWT-EventQueue-0] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/workspace/contiki-wisn/examples/rime/example-collect.sky
+[05:41:27 - Thread-11] [Simulation.java:243] [INFO] - Simulation main loop started, system time: 1350380487861
+[05:41:28 - Thread-11] [MspMote.java:363] [FATAL] - Stack Trace: number of calls: 1 PC: $0168
+  IE1 (gcrt0.S) called from PC: $4b4c (elapsed: 18)
+
+[05:41:28 - Thread-11] [Simulation.java:282] [FATAL] - Simulation stopped due to error: null
+se.sics.cooja.ContikiError
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:333)
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:300)
+	at se.sics.cooja.motes.AbstractWakeupMote$1.execute(AbstractWakeupMote.java:48)
+	at se.sics.cooja.Simulation.run(Simulation.java:270)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: se.sics.mspsim.core.EmulationException: TimerA Trying to write to non-existent CCTL register: 3
+	at se.sics.mspsim.core.Timer.updateTCCTL(Timer.java:538)
+	at se.sics.mspsim.core.Timer.read(Timer.java:504)
+	at se.sics.mspsim.core.MSP430Core.read(MSP430Core.java:748)
+	at se.sics.mspsim.core.MSP430Core.emulateOP(MSP430Core.java:986)
+	at se.sics.mspsim.core.MSP430.stepMicros(MSP430.java:265)
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:327)
+	... 4 more
+[05:41:30 - Thread-11] [Simulation.java:297] [INFO] - Simulation main loop stopped, system time: 1350380490756	Duration: 2895 ms	Simulated time 497 ms	Ratio 0.17167530224525043
+[05:42:36 - Thread-13] [GUI.java:3898] [WARN] - Path is not portable: '/home/user/workspace/contiki-wisn/examples/rime/example-collect.c
+[05:42:36 - Thread-13] [GUI.java:3898] [WARN] - Path is not portable: '/home/user/workspace/contiki-wisn/examples/rime/example-collect.sky
+[05:42:37 - Thread-13] [Simulation.java:409] [INFO] - Simulation random seed: 123456
+[05:42:37 - Thread-13] [CompileContiki.java:131] [INFO] - > make example-collect.sky TARGET=sky 
+[05:42:45 - Thread-13] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/workspace/contiki-wisn/examples/rime/example-collect.sky
+[05:42:46 - Thread-13] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/workspace/contiki-wisn/examples/rime/example-collect.sky
+[05:42:50 - Thread-14] [Simulation.java:243] [INFO] - Simulation main loop started, system time: 1350380570592
+[05:42:51 - Thread-14] [MspMote.java:363] [FATAL] - Stack Trace: number of calls: 1 PC: $0168
+  IE1 (gcrt0.S) called from PC: $4b4c (elapsed: 18)
+
+[05:42:51 - Thread-14] [Simulation.java:282] [FATAL] - Simulation stopped due to error: null
+se.sics.cooja.ContikiError
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:333)
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:300)
+	at se.sics.cooja.motes.AbstractWakeupMote$1.execute(AbstractWakeupMote.java:48)
+	at se.sics.cooja.Simulation.run(Simulation.java:270)
+	at java.lang.Thread.run(Thread.java:619)
+Caused by: se.sics.mspsim.core.EmulationException: TimerA Trying to write to non-existent CCTL register: 3
+	at se.sics.mspsim.core.Timer.updateTCCTL(Timer.java:538)
+	at se.sics.mspsim.core.Timer.read(Timer.java:504)
+	at se.sics.mspsim.core.MSP430Core.read(MSP430Core.java:748)
+	at se.sics.mspsim.core.MSP430Core.emulateOP(MSP430Core.java:986)
+	at se.sics.mspsim.core.MSP430.stepMicros(MSP430.java:265)
+	at se.sics.cooja.mspmote.MspMote.execute(MspMote.java:327)
+	... 4 more
+[05:42:53 - Thread-14] [Simulation.java:297] [INFO] - Simulation main loop stopped, system time: 1350380573342	Duration: 2750 ms	Simulated time 497 ms	Ratio 0.18072727272727274

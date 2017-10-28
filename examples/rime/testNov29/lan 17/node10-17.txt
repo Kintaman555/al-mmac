@@ -1,0 +1,20 @@
+sending slot 15
+slot 1, parent 5, max_prob 89, total 150 ==>  setting strategy, parent 5 
+slot 2, parent 0, max_prob 92, total 150 ==>  setting strategy, parent 0 
+slot 3, parent 6, max_prob 86, total 150 ==>  setting strategy, parent 6 
+slot 4, parent 6, max_prob 2, total 150 ==>  setting strategy, parent 255 
+slot 5, parent 0, max_prob 90, total 150 ==>  setting strategy, parent 0 
+slot 6, parent 7, max_prob 62, total 150 ==>  setting strategy, parent 7 
+slot 7, parent 5, max_prob 20, total 150 ==>  setting strategy, parent 255 
+slot 8, parent 0, max_prob 7, total 150 ==>  setting strategy, parent 255 
+slot 9, parent 5, max_prob 5, total 150 ==>  setting strategy, parent 255 
+sent=10, activity=7.40%
+sent=20, activity=5.90%
+sent=30, activity=5.70%
+sent=40, activity=5.90%
+sent=50, activity=5.90%
+sent=60, activity=5.90%
+sent=70, activity=5.80%
+sent=80, activity=5.90%
+sent=90, activity=7.50%
+sent=100, activity=6.0%

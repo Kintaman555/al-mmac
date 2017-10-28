@@ -1,0 +1,20 @@
+bc-from	1	LQI	98
+bc-from	1	LQI	107
+bc-from	1	LQI	103
+bc-from	1	LQI	103
+bc-from	1	LQI	104
+bc-from	1	LQI	104
+bc-from	1	LQI	106
+bc-from	1	LQI	105
+bc-from	1	LQI	105
+bc-from	1	LQI	107
+sending slot 11
+slot 1, parent 1, max_prob 20, total 147 ==>  setting strategy, parent 255 
+slot 2, parent 1, max_prob 16, total 153 ==>  setting strategy, parent 255 
+slot 3, parent 1, max_prob 6, total 147 ==>  setting strategy, parent 255 
+slot 6, parent 1, max_prob 1, total 149 ==>  setting strategy, parent 255 
+slot 12, parent 1, max_prob 13, total 151 ==>  setting strategy, parent 255 
+slot 13, parent 1, max_prob 18, total 150 ==>  setting strategy, parent 255 
+slot 14, parent 1, max_prob 5, total 156 ==>  setting strategy, parent 255 
+slot 15, parent 0, max_prob 75, total 149 ==>  setting strategy, parent 0 
+sent=10, activity=5.90%

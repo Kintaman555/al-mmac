@@ -1,0 +1,72 @@
+slot 11: from 8! 
+slot 11: from 8! 
+sent=110, activity=8.0%
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+sent=120, activity=9.50%
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+sent=130, activity=6.20%
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+sent=140, activity=8.50%
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+sent=150, activity=8.10%
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+sent=160, activity=8.80%
+slot 11: from 8! 
+slot 11: from 8! 
+sent=170, activity=7.50%
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+sent=180, activity=9.30%
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+slot 11: from 8! 
+sent=190, activity=7.70%
+slot 11: from 8! 
+slot 11: from 8! 
+sent=200, activity=9.0%
+sent=210, activity=12.70%
+slot 11: from 8! 
+slot 11: from 8! 
+sent=220, activity=9.50%
+sent=230, activity=9.60%
+sent=240, activity=8.80%

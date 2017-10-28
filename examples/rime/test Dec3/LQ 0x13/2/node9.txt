@@ -1,0 +1,9 @@
+bc-from	1	LQI	100	seq	10	recv	1
+bc-from	1	LQI	99	seq	13	recv	2
+bc-from	1	LQI	99	seq	18	recv	3
+bc-from	1	LQI	103	seq	19	recv	4
+bc-from	1	LQI	104	seq	30	recv	5
+bc-from	1	LQI	105	seq	38	recv	6
+bc-from	1	LQI	103	seq	43	recv	7
+bc-from	1	LQI	106	seq	73	recv	8
+sending slot 8

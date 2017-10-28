@@ -1,0 +1,14 @@
+bc-from	1	LQI	92
+bc-from	1	LQI	86
+bc-from	1	LQI	95
+bc-from	1	LQI	78
+bc-from	1	LQI	76
+bc-from	1	LQI	103
+sending slot 13
+slot 1, parent 5, max_prob 1, total 152 ==>  setting strategy, parent 255 
+slot 2, parent 7, max_prob 5, total 152 ==>  setting strategy, parent 255 
+slot 14, parent 5, max_prob 18, total 152 ==>  setting strategy, parent 255 
+slot 15, parent 6, max_prob 2, total 152 ==>  setting strategy, parent 255 
+sent=10, activity=4.90%
+bc-from	1	LQI	90
+sent=20, activity=0.10%

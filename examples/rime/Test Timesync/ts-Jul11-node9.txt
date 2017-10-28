@@ -1,0 +1,476 @@
+from	10	id	2	time	183
+from	7	id	2	time	226
+from	8	id	1	time	152
+from	10	id	3	time	-32600
+learning start
+neighbor 5, n->rtmetric 0 add to parent list 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	7	id	3	time	211
+slot 6: to 5
+from	8	id	2	time	-32617
+slot 6: to 5
+slot 7: to 5
+slot 6: to 5
+slot 6: to 5
+from	6	id	3	time	-32585
+slot 6: to 5
+from	7	id	4	time	241
+slot 6: to 5
+from	8	id	3	time	151
+slot 6: to 5
+from	5	id	3	time	-32556
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	5	id	4	time	-32526
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	8	id	4	time	197
+slot 6: to 5
+slot 6: to 5
+from	5	id	5	time	207
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	8	id	6	time	197
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	5	id	6	time	-32582
+from	7	id	7	time	212
+slot 6: to 5
+from	10	id	8	time	-32599
+slot 6: to 5
+from	5	id	7	time	217
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	10	id	9	time	-32585
+slot 6: to 5
+slot 6: to 5
+from	5	id	8	time	-32589
+slot 6: to 5
+from	6	id	8	time	206
+slot 6: to 5
+from	7	id	9	time	-32595
+from	8	id	8	time	150
+slot 6: to 5
+slot 6: to 5
+from	5	id	9	time	224
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	7	id	10	time	166
+slot 6: to 5
+from	7	id	11	time	204
+slot 2: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	10	id	11	time	168
+slot 6: to 5
+slot 6: to 5
+from	5	id	11	time	-32552
+slot 6: to 5
+from	10	id	12	time	199
+slot 6: to 5
+from	8	id	11	time	-32605
+slot 6: to 5
+from	6	id	11	time	190
+slot 6: to 5
+slot 6: to 5
+from	7	id	12	time	161
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	7	id	13	time	-32595
+slot 6: to 5
+from	5	id	12	time	179
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	8	id	12	time	-32618
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	8	id	13	time	-32585
+slot 6: to 5
+from	7	id	14	time	168
+slot 6: to 5
+from	10	id	14	time	-32596
+slot 6: to 5
+from	6	id	13	time	223
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	5	id	14	time	-32594
+slot 6: to 5
+slot 6: to 5
+from	7	id	15	time	-32619
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	5	id	15	time	-32615
+slot 6: to 5
+from	8	id	15	time	151
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	10	id	16	time	185
+slot 6: to 5
+slot 6: to 5
+from	7	id	16	time	160
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	8	id	16	time	-32618
+slot 6: to 5
+from	5	id	16	time	180
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	7	id	17	time	-32614
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	7	id	18	time	-32616
+slot 6: to 5
+slot 6: to 5
+from	5	id	17	time	-32626
+slot 6: to 5
+from	8	id	17	time	148
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	10	id	19	time	-32598
+slot 6: to 5
+from	5	id	18	time	-32595
+slot 6: to 5
+from	8	id	18	time	163
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	7	id	20	time	-32607
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	6	id	20	time	-32573
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	10	id	22	time	-32596
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	7	id	22	time	-32619
+slot 6: to 5
+from	7	id	23	time	152
+slot 6: to 5
+from	8	id	22	time	-32622
+slot 6: to 5
+slot 6: to 5
+from	6	id	22	time	-32556
+slot 6: to 5
+from	5	id	22	time	-32599
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	7	id	24	time	-32625
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	6	id	24	time	194
+slot 6: to 5
+slot 6: to 5
+from	7	id	25	time	141
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	5	id	25	time	-32623
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	8	id	25	time	-32622
+slot 6: to 5
+from	10	id	26	time	202
+slot 6: to 5
+from	10	id	27	time	-32582
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	6	id	26	time	228
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6, parent 5, max_prob 91, total 200 ==>  setting strategy, parent 5 
+from	8	id	27	time	-32624
+slot 6: to 5
+from	10	id	28	time	202
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	7	id	28	time	111
+slot 6: to 5
+slot 6: to 5
+from	8	id	28	time	147
+slot 6: to 5
+sent=10, activity=2.50%
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	10	id	29	time	218
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	5	id	29	time	-32625
+sent=20, activity=1.30%
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	6	id	30	time	244
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+sent=30, activity=1.20%
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	7	id	32	time	83
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+sent=40, activity=1.10%
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	8	id	32	time	-32576
+slot 6: to 5
+slot 6: to 5
+sent=50, activity=1.10%
+from	6	id	33	time	-32552
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	10	id	35	time	-32567
+sent=60, activity=1.30%
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	8	id	35	time	-32575
+slot 6: to 5
+sent=70, activity=1.20%
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	8	id	36	time	-32577
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+sent=80, activity=1.20%
+slot 6: to 5
+from	10	id	38	time	184
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	5	id	37	time	-32703
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	8	id	37	time	190
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+sent=90, activity=1.20%
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+from	8	id	38	time	-32623
+slot 6: to 5
+from	10	id	39	time	185
+slot 6: to 5
+slot 6: to 5
+from	8	id	39	time	160
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+sent=100, activity=1.0%
+slot 6: to 5
+from	10	id	40	time	201
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+slot 6: to 5
+sent=110, activity=1.20%
+slot 6: to 5
+from	8	id	41	time	-32625
+sent=120, activity=1.0%
+from	8	id	42	time	143
+sent=130, activity=1.0%
+sent=140, activity=0.90%
+from	10	id	45	time	202
+from	8	id	44	time	-32610
+from	10	id	46	time	-32584
+sent=150, activity=0.90%
+from	10	id	47	time	170
+sent=160, activity=1.0%
+from	10	id	48	time	-32565
+from	10	id	49	time	-32599
+sent=170, activity=0.90%
+from	6	id	48	time	208
+from	8	id	49	time	156
+sent=180, activity=1.0%
+from	10	id	50	time	217
+from	6	id	50	time	-32545
+from	8	id	50	time	-32597
+from	10	id	51	time	186
+sent=190, activity=1.0%
+from	6	id	51	time	-32562
+from	10	id	52	time	171
+from	6	id	52	time	-32528
+sent=200, activity=1.0%
+from	6	id	53	time	207
+sent=210, activity=1.0%
+from	8	id	53	time	185
+from	10	id	54	time	-32583
+sent=220, activity=0.90%
+from	8	id	54	time	154
+from	10	id	55	time	202
+from	8	id	55	time	184
+sent=230, activity=1.0%
+from	10	id	56	time	217
+from	10	id	57	time	187
+sent=240, activity=0.90%
+from	8	id	57	time	169
+from	6	id	57	time	227
+from	10	id	59	time	185
+sent=250, activity=0.90%
+from	6	id	58	time	-32556
+from	8	id	59	time	-32615
+sent=260, activity=1.0%
+from	10	id	60	time	-32598
+from	6	id	59	time	242
+from	10	id	61	time	-32551
+sent=270, activity=1.0%
+from	6	id	60	time	228
+from	8	id	60	time	-32586
+from	10	id	62	time	187
+from	8	id	61	time	152
+sent=280, activity=1.0%
+from	8	id	62	time	182
+from	6	id	62	time	-32525
+from	10	id	63	time	170
+sent=290, activity=0.90%
+from	6	id	63	time	-32554
+from	10	id	64	time	202
+from	10	id	65	time	170
+from	8	id	64	time	166
+sent=300, activity=1.0%
+sent=310, activity=0.90%
+from	10	id	66	time	204
+from	8	id	66	time	180
+from	6	id	66	time	-32508
+sent=320, activity=1.0%
+from	8	id	67	time	-32618
+from	10	id	68	time	-32549
+sent=330, activity=1.0%
+from	10	id	69	time	185
+from	10	id	70	time	217
+sent=340, activity=0.90%
+from	8	id	69	time	164
+from	6	id	69	time	-32508
+sent=350, activity=0.90%
+from	10	id	72	time	-32599
+from	8	id	71	time	179
+sent=360, activity=1.0%
+from	10	id	73	time	-32567
+from	8	id	72	time	-32620
+sent=370, activity=0.90%
+from	10	id	74	time	-32599
+from	10	id	75	time	201
+from	8	id	74	time	148
+sent=380, activity=1.0%
+from	10	id	76	time	-32583
+from	8	id	75	time	177
+from	6	id	75	time	249
+sent=390, activity=0.90%

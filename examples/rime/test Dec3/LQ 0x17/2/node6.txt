@@ -1,0 +1,256 @@
+bc-from	1	LQI	107	seq	12	recv	5
+bc-from	1	LQI	106	seq	13	recv	6
+bc-from	1	LQI	106	seq	14	recv	7
+bc-from	1	LQI	107	seq	15	recv	8
+bc-from	1	LQI	106	seq	16	recv	9
+bc-from	1	LQI	108	seq	17	recv	10
+bc-from	1	LQI	108	seq	18	recv	11
+bc-from	1	LQI	108	seq	19	recv	12
+bc-from	1	LQI	104	seq	20	recv	13
+bc-from	1	LQI	106	seq	21	recv	14
+bc-from	1	LQI	108	seq	22	recv	15
+bc-from	1	LQI	107	seq	23	recv	16
+bc-from	1	LQI	107	seq	24	recv	17
+bc-from	1	LQI	107	seq	25	recv	18
+bc-from	1	LQI	106	seq	26	recv	19
+bc-from	1	LQI	107	seq	27	recv	20
+bc-from	1	LQI	107	seq	28	recv	21
+bc-from	1	LQI	106	seq	29	recv	22
+bc-from	1	LQI	108	seq	30	recv	23
+bc-from	1	LQI	107	seq	31	recv	24
+bc-from	1	LQI	107	seq	32	recv	25
+bc-from	1	LQI	106	seq	33	recv	26
+bc-from	1	LQI	107	seq	34	recv	27
+bc-from	1	LQI	107	seq	35	recv	28
+bc-from	1	LQI	106	seq	36	recv	29
+bc-from	1	LQI	106	seq	37	recv	30
+bc-from	1	LQI	106	seq	38	recv	31
+bc-from	1	LQI	107	seq	39	recv	32
+bc-from	1	LQI	108	seq	40	recv	33
+bc-from	1	LQI	106	seq	41	recv	34
+bc-from	1	LQI	105	seq	42	recv	35
+bc-from	1	LQI	106	seq	43	recv	36
+bc-from	1	LQI	108	seq	44	recv	37
+bc-from	1	LQI	107	seq	45	recv	38
+bc-from	1	LQI	108	seq	46	recv	39
+bc-from	1	LQI	106	seq	47	recv	40
+bc-from	1	LQI	106	seq	48	recv	41
+bc-from	1	LQI	106	seq	49	recv	42
+bc-from	1	LQI	107	seq	50	recv	43
+bc-from	1	LQI	107	seq	51	recv	44
+bc-from	1	LQI	107	seq	52	recv	45
+bc-from	1	LQI	105	seq	53	recv	46
+bc-from	1	LQI	106	seq	54	recv	47
+bc-from	1	LQI	107	seq	55	recv	48
+bc-from	1	LQI	107	seq	56	recv	49
+bc-from	1	LQI	107	seq	57	recv	50
+bc-from	1	LQI	106	seq	58	recv	51
+bc-from	1	LQI	106	seq	59	recv	52
+bc-from	1	LQI	108	seq	60	recv	53
+bc-from	1	LQI	107	seq	61	recv	54
+bc-from	1	LQI	107	seq	62	recv	55
+bc-from	1	LQI	107	seq	63	recv	56
+bc-from	1	LQI	107	seq	64	recv	57
+bc-from	1	LQI	106	seq	65	recv	58
+bc-from	1	LQI	107	seq	66	recv	59
+bc-from	1	LQI	107	seq	67	recv	60
+bc-from	1	LQI	106	seq	68	recv	61
+bc-from	1	LQI	107	seq	69	recv	62
+bc-from	1	LQI	108	seq	71	recv	63
+bc-from	1	LQI	106	seq	70	recv	64
+bc-from	1	LQI	107	seq	72	recv	65
+bc-from	1	LQI	107	seq	73	recv	66
+bc-from	1	LQI	107	seq	74	recv	67
+bc-from	1	LQI	107	seq	75	recv	68
+bc-from	1	LQI	108	seq	76	recv	69
+bc-from	1	LQI	108	seq	77	recv	70
+bc-from	1	LQI	106	seq	78	recv	71
+bc-from	1	LQI	106	seq	79	recv	72
+bc-from	1	LQI	107	seq	80	recv	73
+bc-from	1	LQI	107	seq	81	recv	74
+bc-from	1	LQI	107	seq	82	recv	75
+bc-from	1	LQI	107	seq	83	recv	76
+bc-from	1	LQI	107	seq	84	recv	77
+bc-from	1	LQI	108	seq	85	recv	78
+bc-from	1	LQI	108	seq	86	recv	79
+bc-from	1	LQI	107	seq	87	recv	80
+bc-from	1	LQI	107	seq	88	recv	81
+bc-from	1	LQI	107	seq	89	recv	82
+bc-from	1	LQI	107	seq	90	recv	83
+bc-from	1	LQI	105	seq	91	recv	84
+bc-from	1	LQI	107	seq	92	recv	85
+bc-from	1	LQI	107	seq	93	recv	86
+bc-from	1	LQI	106	seq	94	recv	87
+bc-from	1	LQI	107	seq	95	recv	88
+bc-from	1	LQI	107	seq	96	recv	89
+bc-from	1	LQI	107	seq	97	recv	90
+bc-from	1	LQI	104	seq	98	recv	91
+bc-from	1	LQI	105	seq	99	recv	92
+bc-from	1	LQI	106	seq	100	recv	93
+bc-from	1	LQI	106	seq	101	recv	94
+bc-from	1	LQI	106	seq	102	recv	95
+bc-from	1	LQI	105	seq	103	recv	96
+bc-from	1	LQI	106	seq	104	recv	97
+bc-from	1	LQI	108	seq	105	recv	98
+bc-from	1	LQI	108	seq	106	recv	99
+bc-from	1	LQI	105	seq	107	recv	100
+bc-from	1	LQI	105	seq	108	recv	101
+bc-from	1	LQI	107	seq	109	recv	102
+bc-from	1	LQI	108	seq	110	recv	103
+bc-from	1	LQI	106	seq	111	recv	104
+bc-from	1	LQI	107	seq	112	recv	105
+bc-from	1	LQI	105	seq	113	recv	106
+bc-from	1	LQI	107	seq	114	recv	107
+bc-from	1	LQI	107	seq	115	recv	108
+bc-from	1	LQI	107	seq	116	recv	109
+bc-from	1	LQI	107	seq	117	recv	110
+bc-from	1	LQI	106	seq	118	recv	111
+sending slot 9
+bc-from	1	LQI	106	seq	121	recv	112
+bc-from	1	LQI	106	seq	122	recv	113
+bc-from	1	LQI	106	seq	123	recv	114
+bc-from	1	LQI	108	seq	124	recv	115
+bc-from	1	LQI	107	seq	125	recv	116
+bc-from	1	LQI	105	seq	126	recv	117
+bc-from	1	LQI	106	seq	127	recv	118
+bc-from	1	LQI	107	seq	128	recv	119
+bc-from	1	LQI	108	seq	129	recv	120
+slot 10, parent 1, max_prob 12, total 156 ==>  setting strategy, parent 255 
+slot 11, parent 1, max_prob 23, total 153 ==>  setting strategy, parent 255 
+slot 12, parent 1, max_prob 16, total 149 ==>  setting strategy, parent 255 
+slot 13, parent 1, max_prob 11, total 148 ==>  setting strategy, parent 255 
+slot 14, parent 1, max_prob 2, total 151 ==>  setting strategy, parent 255 
+bc-from	1	LQI	107	seq	130	recv	121
+bc-from	1	LQI	107	seq	131	recv	122
+bc-from	1	LQI	106	seq	132	recv	123
+bc-from	1	LQI	107	seq	133	recv	124
+bc-from	1	LQI	104	seq	134	recv	125
+sent	5	act	6.40%
+bc-from	1	LQI	107	seq	135	recv	126
+bc-from	1	LQI	107	seq	136	recv	127
+bc-from	1	LQI	107	seq	137	recv	128
+bc-from	1	LQI	108	seq	138	recv	129
+bc-from	1	LQI	107	seq	139	recv	130
+sent	10	act	6.60%
+bc-from	1	LQI	106	seq	140	recv	131
+bc-from	1	LQI	108	seq	141	recv	132
+bc-from	1	LQI	107	seq	142	recv	133
+bc-from	1	LQI	108	seq	143	recv	134
+bc-from	1	LQI	107	seq	144	recv	135
+sent	15	act	6.60%
+bc-from	1	LQI	107	seq	145	recv	136
+bc-from	1	LQI	106	seq	146	recv	137
+bc-from	1	LQI	107	seq	147	recv	138
+bc-from	1	LQI	107	seq	148	recv	139
+bc-from	1	LQI	107	seq	149	recv	140
+sent	20	act	6.50%
+bc-from	1	LQI	107	seq	150	recv	141
+bc-from	1	LQI	107	seq	151	recv	142
+bc-from	1	LQI	107	seq	152	recv	143
+bc-from	1	LQI	106	seq	153	recv	144
+bc-from	1	LQI	107	seq	154	recv	145
+sent	25	act	6.50%
+bc-from	1	LQI	107	seq	155	recv	146
+bc-from	1	LQI	107	seq	156	recv	147
+bc-from	1	LQI	107	seq	157	recv	148
+bc-from	1	LQI	108	seq	158	recv	149
+bc-from	1	LQI	108	seq	159	recv	150
+sent	30	act	6.60%
+bc-from	1	LQI	108	seq	160	recv	151
+bc-from	1	LQI	107	seq	161	recv	152
+bc-from	1	LQI	107	seq	162	recv	153
+bc-from	1	LQI	107	seq	163	recv	154
+bc-from	1	LQI	107	seq	164	recv	155
+sent	35	act	6.70%
+bc-from	1	LQI	107	seq	165	recv	156
+bc-from	1	LQI	108	seq	166	recv	157
+bc-from	1	LQI	106	seq	167	recv	158
+bc-from	1	LQI	107	seq	168	recv	159
+bc-from	1	LQI	108	seq	169	recv	160
+sent	40	act	6.60%
+bc-from	1	LQI	107	seq	170	recv	161
+bc-from	1	LQI	107	seq	171	recv	162
+bc-from	1	LQI	108	seq	172	recv	163
+bc-from	1	LQI	106	seq	173	recv	164
+bc-from	1	LQI	106	seq	174	recv	165
+sent	45	act	6.70%
+bc-from	1	LQI	106	seq	175	recv	166
+bc-from	1	LQI	106	seq	176	recv	167
+bc-from	1	LQI	106	seq	177	recv	168
+bc-from	1	LQI	107	seq	178	recv	169
+bc-from	1	LQI	107	seq	179	recv	170
+sent	50	act	6.70%
+bc-from	1	LQI	107	seq	180	recv	171
+bc-from	1	LQI	107	seq	181	recv	172
+bc-from	1	LQI	107	seq	182	recv	173
+bc-from	1	LQI	108	seq	183	recv	174
+bc-from	1	LQI	106	seq	184	recv	175
+sent	55	act	6.70%
+bc-from	1	LQI	105	seq	185	recv	176
+bc-from	1	LQI	107	seq	186	recv	177
+bc-from	1	LQI	107	seq	187	recv	178
+bc-from	1	LQI	106	seq	188	recv	179
+bc-from	1	LQI	106	seq	189	recv	180
+sent	60	act	6.70%
+bc-from	1	LQI	107	seq	190	recv	181
+bc-from	1	LQI	107	seq	191	recv	182
+bc-from	1	LQI	107	seq	192	recv	183
+bc-from	1	LQI	107	seq	193	recv	184
+bc-from	1	LQI	107	seq	194	recv	185
+sent	65	act	6.60%
+bc-from	1	LQI	108	seq	195	recv	186
+bc-from	1	LQI	107	seq	196	recv	187
+bc-from	1	LQI	107	seq	197	recv	188
+bc-from	1	LQI	107	seq	198	recv	189
+bc-from	1	LQI	106	seq	199	recv	190
+sent	70	act	6.70%
+bc-from	1	LQI	108	seq	200	recv	191
+bc-from	1	LQI	108	seq	201	recv	192
+bc-from	1	LQI	107	seq	202	recv	193
+bc-from	1	LQI	108	seq	203	recv	194
+bc-from	1	LQI	108	seq	204	recv	195
+sent	75	act	6.60%
+bc-from	1	LQI	105	seq	205	recv	196
+bc-from	1	LQI	106	seq	206	recv	197
+bc-from	1	LQI	105	seq	207	recv	198
+bc-from	1	LQI	108	seq	208	recv	199
+bc-from	1	LQI	108	seq	209	recv	200
+sent	80	act	6.50%
+bc-from	1	LQI	107	seq	210	recv	201
+bc-from	1	LQI	106	seq	211	recv	202
+bc-from	1	LQI	107	seq	212	recv	203
+bc-from	1	LQI	107	seq	213	recv	204
+bc-from	1	LQI	107	seq	214	recv	205
+sent	85	act	6.60%
+bc-from	1	LQI	105	seq	215	recv	206
+bc-from	1	LQI	105	seq	216	recv	207
+bc-from	1	LQI	108	seq	217	recv	208
+bc-from	1	LQI	107	seq	218	recv	209
+bc-from	1	LQI	108	seq	219	recv	210
+sent	90	act	6.50%
+bc-from	1	LQI	107	seq	220	recv	211
+bc-from	1	LQI	107	seq	221	recv	212
+bc-from	1	LQI	107	seq	222	recv	213
+bc-from	1	LQI	107	seq	223	recv	214
+bc-from	1	LQI	105	seq	224	recv	215
+sent	95	act	6.50%
+bc-from	1	LQI	106	seq	225	recv	216
+bc-from	1	LQI	107	seq	226	recv	217
+bc-from	1	LQI	107	seq	227	recv	218
+bc-from	1	LQI	107	seq	228	recv	219
+bc-from	1	LQI	107	seq	229	recv	220
+sent	100	act	6.50%
+bc-from	1	LQI	107	seq	230	recv	221
+bc-from	1	LQI	106	seq	231	recv	222
+bc-from	1	LQI	107	seq	232	recv	223
+bc-from	1	LQI	106	seq	233	recv	224
+bc-from	1	LQI	107	seq	234	recv	225
+sent	105	act	6.50%
+bc-from	1	LQI	107	seq	235	recv	226
+bc-from	1	LQI	108	seq	236	recv	227
+bc-from	1	LQI	107	seq	237	recv	228
+bc-from	1	LQI	107	seq	238	recv	229
+bc-from	1	LQI	107	seq	239	recv	230
+sent	110	act	6.60%
+bc-from	1	LQI	106	seq	240	recv	231
+bc-from	1	LQI	107	seq	241	recv	232

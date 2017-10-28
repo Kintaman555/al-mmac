@@ -1,0 +1,910 @@
+from	8	id	5	time	-32574
+from	9	id	5	time	245
+from	9	id	6	time	215
+from	6	id	6	time	-32569
+from	8	id	6	time	228
+from	7	id	7	time	246
+from	8	id	7	time	-32524
+from	7	id	8	time	-32521
+from	9	id	7	time	199
+from	9	id	8	time	-32566
+from	8	id	8	time	-32559
+from	7	id	9	time	246
+from	5	id	8	time	-32518
+from	6	id	9	time	213
+from	9	id	9	time	197
+from	6	id	10	time	243
+from	5	id	10	time	-32514
+from	6	id	11	time	-32572
+from	7	id	12	time	230
+from	8	id	11	time	240
+from	9	id	11	time	-32541
+from	9	id	12	time	-32573
+from	5	id	13	time	-32517
+from	6	id	13	time	244
+from	8	id	13	time	-32559
+from	7	id	14	time	198
+from	9	id	13	time	-32537
+from	5	id	14	time	220
+from	8	id	14	time	226
+from	6	id	14	time	201
+slot 1, parent 5, max_prob 13, total 100 ==>  setting strategy, parent 255 
+slot 2, parent 5, max_prob 1, total 100 ==>  setting strategy, parent 255 
+slot 3, parent 5, max_prob 1, total 100 ==>  setting strategy, parent 255 
+slot 7, parent 5, max_prob 58, total 99 ==>  setting strategy, parent 5 
+from	9	id	15	time	244
+from	7	id	16	time	-32556
+sent=10, activity=3.0%
+from	8	id	15	time	196
+from	8	id	16	time	200
+from	7	id	17	time	-32524
+from	6	id	16	time	-32572
+from	9	id	16	time	228
+sent=20, activity=1.40%
+from	8	id	17	time	231
+from	7	id	18	time	229
+from	6	id	17	time	-32542
+from	9	id	17	time	247
+from	8	id	18	time	-32538
+sent=30, activity=1.50%
+from	7	id	19	time	-32522
+from	7	id	20	time	-32571
+sent=40, activity=1.50%
+from	9	id	19	time	216
+from	5	id	19	time	-32563
+from	9	id	20	time	197
+from	5	id	20	time	238
+sent=50, activity=1.70%
+from	6	id	21	time	199
+from	8	id	21	time	214
+sent=60, activity=1.50%
+from	7	id	23	time	-32538
+from	5	id	23	time	219
+sent=70, activity=1.60%
+from	8	id	23	time	247
+from	9	id	24	time	197
+from	5	id	24	time	-32517
+sent=80, activity=1.70%
+from	7	id	25	time	-32556
+from	8	id	25	time	231
+from	7	id	26	time	230
+sent=90, activity=1.60%
+from	5	id	26	time	-32549
+from	6	id	27	time	-32541
+sent=100, activity=1.50%
+from	7	id	28	time	-32524
+from	5	id	28	time	219
+sent=110, activity=1.60%
+from	8	id	28	time	-32539
+from	7	id	29	time	229
+from	8	id	29	time	-32572
+from	6	id	29	time	197
+from	9	id	29	time	246
+from	7	id	30	time	-32522
+sent=120, activity=1.60%
+from	8	id	30	time	-32522
+from	9	id	30	time	246
+from	6	id	30	time	231
+sent=130, activity=1.50%
+from	7	id	31	time	200
+from	6	id	31	time	-32525
+from	5	id	31	time	204
+from	9	id	31	time	245
+from	8	id	31	time	-32569
+from	7	id	32	time	246
+sent=140, activity=1.70%
+from	7	id	33	time	-32538
+from	9	id	32	time	245
+sent=150, activity=1.40%
+from	6	id	33	time	-32571
+from	8	id	33	time	-32554
+from	7	id	34	time	243
+from	6	id	34	time	-32522
+from	9	id	34	time	229
+sent=160, activity=1.70%
+from	8	id	34	time	-32524
+from	5	id	35	time	-32549
+from	9	id	35	time	229
+from	8	id	35	time	244
+sent=170, activity=1.60%
+from	7	id	36	time	245
+from	7	id	37	time	244
+from	8	id	36	time	197
+sent=180, activity=1.60%
+from	6	id	37	time	228
+from	7	id	38	time	-32570
+from	5	id	38	time	251
+from	6	id	38	time	231
+sent=190, activity=1.50%
+from	9	id	38	time	-32523
+from	9	id	39	time	246
+sent=200, activity=1.50%
+from	6	id	39	time	213
+from	7	id	40	time	-32571
+from	6	id	40	time	-32556
+from	9	id	40	time	245
+sent=210, activity=1.60%
+from	6	id	41	time	228
+from	7	id	42	time	-32570
+from	9	id	41	time	-32569
+from	8	id	41	time	211
+sent=220, activity=1.40%
+from	8	id	42	time	245
+from	9	id	42	time	200
+from	7	id	44	time	248
+from	8	id	43	time	-32570
+sent=230, activity=1.50%
+from	9	id	43	time	212
+from	5	id	43	time	-32564
+from	7	id	45	time	230
+from	9	id	44	time	-32570
+sent=240, activity=1.60%
+from	8	id	44	time	-32536
+from	5	id	45	time	-32549
+from	6	id	45	time	196
+from	8	id	45	time	-32556
+sent=250, activity=1.70%
+from	6	id	46	time	213
+from	7	id	47	time	-32556
+from	8	id	46	time	229
+from	7	id	48	time	-32520
+sent=260, activity=1.70%
+from	6	id	47	time	-32540
+from	6	id	48	time	-32569
+sent=270, activity=1.60%
+from	8	id	48	time	197
+from	7	id	49	time	-32555
+from	9	id	48	time	215
+from	7	id	50	time	-32524
+from	6	id	49	time	-32540
+from	9	id	49	time	-32575
+sent=280, activity=1.70%
+from	8	id	49	time	195
+from	8	id	50	time	230
+from	9	id	50	time	-32539
+sent=290, activity=1.50%
+from	6	id	51	time	243
+from	8	id	51	time	-32523
+from	5	id	51	time	254
+from	7	id	53	time	-32570
+sent=300, activity=1.50%
+from	6	id	52	time	213
+from	6	id	53	time	229
+sent=310, activity=1.50%
+from	5	id	53	time	208
+from	9	id	53	time	-32554
+from	7	id	54	time	-32523
+sent=320, activity=1.70%
+from	7	id	56	time	-32570
+from	9	id	55	time	-32552
+from	5	id	55	time	-32531
+sent=330, activity=1.60%
+from	6	id	55	time	211
+from	5	id	56	time	-32564
+sent=340, activity=1.50%
+from	7	id	58	time	198
+from	9	id	57	time	197
+from	8	id	57	time	244
+from	6	id	57	time	-32571
+sent=350, activity=1.50%
+from	9	id	58	time	230
+from	8	id	58	time	-32540
+from	7	id	59	time	245
+from	9	id	59	time	-32570
+sent=360, activity=1.50%
+from	7	id	60	time	197
+from	6	id	60	time	-32572
+sent=370, activity=1.60%
+from	7	id	61	time	201
+from	8	id	61	time	-32571
+from	7	id	62	time	202
+from	5	id	62	time	-32563
+sent=380, activity=1.60%
+from	7	id	63	time	203
+from	9	id	62	time	-32540
+from	6	id	62	time	211
+from	8	id	62	time	-32523
+sent=390, activity=1.60%
+from	9	id	63	time	196
+sent=400, activity=1.70%
+from	8	id	65	time	244
+from	6	id	65	time	-32557
+from	9	id	65	time	-32571
+from	5	id	65	time	254
+sent=410, activity=1.60%
+from	7	id	66	time	246
+from	7	id	67	time	247
+from	6	id	66	time	-32524
+from	9	id	66	time	212
+from	8	id	66	time	199
+from	5	id	66	time	-32516
+sent=420, activity=1.80%
+from	9	id	67	time	-32519
+from	6	id	67	time	196
+from	8	id	67	time	-32571
+from	8	id	68	time	214
+sent=430, activity=1.70%
+from	9	id	68	time	246
+from	6	id	68	time	-32540
+from	8	id	69	time	230
+sent=440, activity=1.70%
+from	9	id	69	time	-32565
+from	8	id	70	time	230
+from	7	id	71	time	229
+from	5	id	70	time	-32564
+sent=450, activity=1.60%
+from	7	id	72	time	230
+from	6	id	71	time	196
+from	8	id	71	time	228
+sent=460, activity=1.50%
+from	8	id	72	time	-32556
+from	6	id	73	time	229
+from	7	id	74	time	-32573
+sent=470, activity=1.60%
+from	9	id	73	time	199
+from	8	id	73	time	232
+from	9	id	74	time	-32571
+from	5	id	74	time	-32532
+sent=480, activity=1.60%
+from	7	id	76	time	-32540
+from	6	id	75	time	-32571
+sent=490, activity=1.50%
+from	5	id	76	time	-32532
+from	6	id	76	time	246
+from	8	id	76	time	-32568
+from	7	id	78	time	-32541
+sent=500, activity=1.50%
+from	8	id	77	time	197
+from	9	id	77	time	-32571
+from	7	id	79	time	-32522
+sent=510, activity=1.50%
+from	8	id	78	time	211
+from	9	id	78	time	-32524
+from	6	id	78	time	-32524
+from	6	id	79	time	-32523
+from	8	id	79	time	214
+sent=520, activity=1.60%
+from	9	id	80	time	-32523
+sent=530, activity=1.50%
+from	6	id	80	time	196
+from	8	id	81	time	-32571
+sent=540, activity=1.60%
+from	8	id	82	time	245
+from	7	id	83	time	-32571
+from	9	id	82	time	198
+from	7	id	84	time	-32569
+sent=550, activity=1.70%
+from	8	id	83	time	212
+from	6	id	84	time	-32569
+from	8	id	84	time	-32571
+sent=560, activity=1.60%
+from	9	id	84	time	228
+from	7	id	86	time	-32569
+from	9	id	85	time	-32569
+from	8	id	85	time	-32539
+from	6	id	85	time	-32538
+sent=570, activity=1.50%
+from	9	id	86	time	197
+sent=580, activity=1.50%
+from	7	id	88	time	198
+sent=590, activity=1.60%
+from	5	id	88	time	251
+from	9	id	88	time	214
+from	7	id	89	time	-32557
+from	5	id	89	time	220
+sent=600, activity=1.60%
+from	8	id	90	time	-32573
+from	6	id	90	time	211
+from	9	id	90	time	212
+from	7	id	91	time	198
+sent=610, activity=1.60%
+from	5	id	91	time	-32549
+from	8	id	91	time	227
+from	6	id	91	time	-32573
+from	7	id	92	time	213
+from	7	id	93	time	-32571
+sent=620, activity=1.70%
+from	9	id	92	time	198
+from	6	id	92	time	230
+from	5	id	93	time	-32531
+sent=630, activity=1.50%
+from	8	id	93	time	228
+from	6	id	93	time	-32557
+from	7	id	94	time	231
+from	8	id	94	time	-32522
+sent=640, activity=1.60%
+from	9	id	94	time	211
+from	6	id	94	time	211
+from	7	id	96	time	197
+from	9	id	95	time	-32539
+sent=650, activity=1.70%
+from	8	id	95	time	245
+from	9	id	96	time	-32569
+from	8	id	96	time	197
+sent=660, activity=1.30%
+from	8	id	97	time	-32539
+from	7	id	98	time	230
+from	6	id	97	time	212
+from	6	id	98	time	243
+sent=670, activity=1.50%
+from	9	id	98	time	247
+from	7	id	99	time	-32555
+from	8	id	99	time	-32571
+from	7	id	100	time	211
+from	9	id	99	time	-32557
+sent=680, activity=1.40%
+from	5	id	100	time	251
+from	8	id	100	time	249
+from	6	id	100	time	-32540
+from	7	id	101	time	-32571
+sent=690, activity=1.60%
+from	9	id	101	time	-32554
+from	6	id	101	time	210
+from	8	id	101	time	197
+from	6	id	102	time	-32524
+sent=700, activity=1.70%
+from	8	id	102	time	247
+from	9	id	102	time	-32571
+from	8	id	103	time	244
+from	9	id	103	time	-32572
+sent=710, activity=1.40%
+from	5	id	103	time	250
+from	9	id	104	time	-32572
+from	5	id	104	time	219
+from	6	id	104	time	-32572
+sent=720, activity=1.50%
+from	8	id	104	time	199
+from	9	id	105	time	244
+from	6	id	105	time	-32572
+from	5	id	105	time	-32517
+sent=730, activity=1.80%
+from	7	id	106	time	197
+from	6	id	106	time	-32539
+from	9	id	106	time	196
+from	7	id	107	time	-32555
+sent=740, activity=1.50%
+from	8	id	107	time	228
+from	6	id	107	time	-32539
+from	9	id	107	time	-32554
+from	9	id	108	time	229
+sent=750, activity=1.60%
+from	7	id	109	time	197
+from	6	id	108	time	-32526
+sent=760, activity=1.50%
+from	8	id	109	time	199
+from	9	id	110	time	198
+from	6	id	110	time	-32558
+from	8	id	110	time	-32524
+sent=770, activity=1.60%
+from	9	id	111	time	-32523
+from	8	id	112	time	-32540
+sent=780, activity=1.50%
+from	7	id	113	time	229
+from	9	id	112	time	244
+from	6	id	112	time	246
+sent=790, activity=1.50%
+from	8	id	113	time	-32571
+from	8	id	114	time	-32540
+from	6	id	114	time	-32572
+sent=800, activity=1.60%
+from	9	id	114	time	196
+from	9	id	115	time	215
+from	8	id	115	time	-32539
+sent=810, activity=1.60%
+from	7	id	116	time	243
+from	9	id	116	time	-32538
+from	7	id	117	time	242
+from	5	id	117	time	-32516
+sent=820, activity=1.30%
+from	8	id	117	time	229
+from	6	id	117	time	209
+from	7	id	118	time	-32537
+from	5	id	118	time	219
+sent=830, activity=1.40%
+from	6	id	118	time	-32571
+from	9	id	118	time	-32555
+from	9	id	119	time	-32524
+sent=840, activity=1.50%
+from	6	id	119	time	248
+from	8	id	119	time	-32573
+from	8	id	120	time	-32569
+from	9	id	120	time	230
+from	7	id	121	time	198
+sent=850, activity=1.70%
+from	8	id	121	time	231
+from	9	id	121	time	-32573
+from	5	id	122	time	236
+sent=860, activity=1.60%
+from	9	id	122	time	246
+from	8	id	122	time	199
+from	7	id	123	time	-32538
+from	9	id	123	time	-32521
+sent=870, activity=1.40%
+from	5	id	123	time	204
+sent=880, activity=1.60%
+from	6	id	124	time	197
+from	5	id	125	time	204
+from	7	id	126	time	-32536
+from	9	id	125	time	-32571
+sent=890, activity=1.70%
+from	7	id	127	time	-32571
+from	9	id	126	time	244
+from	8	id	126	time	230
+sent=900, activity=1.70%
+from	7	id	128	time	-32537
+from	8	id	127	time	196
+from	9	id	127	time	-32571
+from	9	id	128	time	-32572
+from	7	id	129	time	-32539
+sent=910, activity=1.60%
+from	8	id	128	time	-32538
+from	6	id	128	time	211
+from	6	id	129	time	-32540
+sent=920, activity=1.40%
+from	5	id	129	time	236
+from	8	id	129	time	-32556
+from	7	id	131	time	231
+sent=930, activity=1.60%
+from	6	id	131	time	-32556
+from	9	id	131	time	198
+sent=940, activity=1.40%
+from	7	id	133	time	211
+from	8	id	132	time	212
+from	8	id	133	time	-32572
+sent=950, activity=1.70%
+from	7	id	134	time	-32538
+from	6	id	133	time	-32572
+from	6	id	134	time	244
+sent=960, activity=1.60%
+from	7	id	135	time	246
+from	9	id	135	time	-32571
+from	8	id	135	time	-32522
+sent=970, activity=1.50%
+from	6	id	135	time	214
+from	8	id	136	time	-32570
+from	9	id	136	time	-32555
+from	6	id	136	time	246
+from	9	id	137	time	-32524
+sent=980, activity=1.60%
+from	8	id	137	time	213
+from	6	id	137	time	-32572
+from	6	id	138	time	-32571
+from	9	id	138	time	229
+from	8	id	138	time	-32569
+sent=990, activity=1.70%
+from	7	id	139	time	-32569
+from	7	id	140	time	-32571
+sent=1000, activity=1.50%
+from	9	id	139	time	-32569
+from	8	id	140	time	199
+from	9	id	140	time	-32539
+sent=1010, activity=1.50%
+from	6	id	140	time	196
+from	9	id	141	time	215
+from	7	id	142	time	-32525
+from	6	id	141	time	-32556
+sent=1020, activity=1.50%
+from	9	id	142	time	232
+from	7	id	144	time	197
+sent=1030, activity=1.50%
+from	9	id	143	time	212
+from	9	id	144	time	-32540
+from	7	id	145	time	-32556
+sent=1040, activity=1.60%
+from	8	id	144	time	245
+from	9	id	145	time	-32571
+from	8	id	145	time	-32554
+sent=1050, activity=1.70%
+from	5	id	146	time	252
+from	9	id	146	time	198
+from	8	id	146	time	229
+sent=1060, activity=1.50%
+from	5	id	147	time	235
+from	9	id	147	time	-32557
+from	7	id	149	time	-32570
+sent=1070, activity=1.50%
+from	8	id	148	time	212
+from	9	id	148	time	212
+from	7	id	150	time	212
+from	9	id	149	time	-32541
+sent=1080, activity=1.50%
+from	5	id	149	time	-32565
+from	6	id	150	time	-32556
+from	7	id	151	time	-32540
+from	9	id	150	time	245
+sent=1090, activity=1.60%
+from	9	id	151	time	-32539
+from	7	id	152	time	-32521
+from	6	id	151	time	196
+from	8	id	151	time	-32523
+sent=1100, activity=1.60%
+from	8	id	152	time	211
+from	9	id	152	time	-32523
+from	7	id	154	time	-32520
+sent=1110, activity=1.50%
+from	8	id	153	time	248
+from	5	id	154	time	-32518
+from	6	id	154	time	-32539
+sent=1120, activity=1.50%
+from	8	id	154	time	-32539
+from	9	id	155	time	198
+from	8	id	155	time	231
+from	6	id	155	time	-32557
+sent=1130, activity=1.60%
+from	9	id	156	time	231
+from	6	id	157	time	-32521
+sent=1140, activity=1.70%
+from	9	id	157	time	-32557
+sent=1150, activity=1.50%
+from	9	id	158	time	199
+from	8	id	158	time	230
+from	9	id	159	time	-32523
+from	8	id	159	time	198
+sent=1160, activity=1.60%
+from	6	id	159	time	197
+from	5	id	160	time	219
+from	6	id	160	time	-32557
+from	8	id	160	time	-32524
+from	9	id	160	time	197
+sent=1170, activity=1.50%
+from	5	id	161	time	-32516
+from	9	id	161	time	-32536
+from	8	id	161	time	-32553
+sent=1180, activity=1.50%
+from	7	id	163	time	-32524
+from	6	id	162	time	-32539
+from	5	id	162	time	237
+from	8	id	162	time	-32524
+sent=1190, activity=1.60%
+from	7	id	164	time	212
+from	5	id	163	time	-32563
+from	6	id	163	time	211
+from	6	id	164	time	-32572
+from	8	id	164	time	-32571
+sent=1200, activity=1.60%
+from	6	id	165	time	198
+from	7	id	166	time	-32569
+from	9	id	165	time	198
+sent=1210, activity=1.70%
+from	6	id	166	time	-32556
+from	8	id	166	time	229
+from	9	id	166	time	-32581
+sent=1220, activity=1.50%
+from	8	id	167	time	-32556
+from	7	id	169	time	-32522
+sent=1230, activity=1.80%
+from	8	id	168	time	229
+from	6	id	168	time	-32570
+from	9	id	169	time	-32557
+from	5	id	169	time	219
+from	6	id	169	time	-32570
+sent=1240, activity=1.50%
+from	8	id	170	time	229
+from	9	id	170	time	-32540
+sent=1250, activity=1.50%
+from	6	id	170	time	213
+from	7	id	172	time	199
+from	6	id	171	time	243
+from	8	id	171	time	246
+from	5	id	172	time	-32563
+sent=1260, activity=1.60%
+from	9	id	172	time	214
+from	6	id	172	time	-32570
+from	7	id	174	time	-32535
+sent=1270, activity=1.40%
+from	9	id	173	time	198
+from	8	id	173	time	-32537
+from	6	id	173	time	196
+from	9	id	174	time	-32556
+from	8	id	174	time	246
+from	7	id	175	time	233
+sent=1280, activity=1.70%
+from	7	id	176	time	-32524
+from	8	id	175	time	246
+from	6	id	175	time	231
+sent=1290, activity=1.50%
+from	5	id	176	time	219
+from	7	id	177	time	231
+from	9	id	176	time	-32523
+from	8	id	176	time	-32552
+from	5	id	177	time	-32517
+sent=1300, activity=1.70%
+from	8	id	177	time	198
+from	7	id	178	time	-32569
+from	5	id	178	time	-32530
+sent=1310, activity=1.30%
+from	9	id	178	time	-32571
+from	8	id	178	time	212
+from	7	id	179	time	-32537
+from	7	id	180	time	246
+sent=1320, activity=1.60%
+from	6	id	179	time	249
+from	5	id	180	time	-32515
+from	7	id	181	time	212
+sent=1330, activity=1.50%
+from	6	id	180	time	196
+from	9	id	180	time	-32538
+from	6	id	181	time	228
+from	7	id	182	time	-32537
+from	9	id	181	time	212
+from	8	id	182	time	-32572
+sent=1340, activity=1.70%
+from	7	id	183	time	212
+from	9	id	182	time	197
+from	7	id	184	time	-32538
+sent=1350, activity=1.50%
+from	9	id	183	time	-32537
+from	8	id	183	time	200
+from	6	id	183	time	-32570
+from	9	id	184	time	-32538
+from	7	id	185	time	245
+sent=1360, activity=1.60%
+from	9	id	185	time	-32555
+from	7	id	186	time	-32555
+sent=1370, activity=1.50%
+from	8	id	185	time	228
+from	8	id	186	time	199
+from	7	id	187	time	228
+from	6	id	186	time	196
+from	5	id	187	time	-32547
+sent=1380, activity=1.60%
+from	6	id	187	time	-32556
+from	7	id	188	time	230
+sent=1390, activity=1.60%
+from	7	id	189	time	198
+from	6	id	188	time	-32572
+from	9	id	188	time	198
+from	5	id	188	time	-32564
+from	8	id	189	time	195
+sent=1400, activity=1.60%
+from	5	id	189	time	235
+from	9	id	190	time	-32573
+from	8	id	190	time	246
+from	5	id	190	time	-32563
+sent=1410, activity=1.50%
+from	5	id	191	time	251
+from	6	id	191	time	232
+from	8	id	192	time	-32571
+sent=1420, activity=1.40%
+from	6	id	192	time	238
+from	9	id	193	time	229
+sent=1430, activity=1.60%
+from	6	id	193	time	-32525
+from	6	id	194	time	-32573
+from	8	id	194	time	-32570
+sent=1440, activity=1.60%
+from	6	id	195	time	245
+from	8	id	195	time	-32557
+from	9	id	195	time	-32539
+sent=1450, activity=1.30%
+from	9	id	196	time	-32569
+from	8	id	196	time	198
+from	7	id	197	time	197
+sent=1460, activity=1.40%
+from	9	id	197	time	-32556
+from	8	id	197	time	231
+from	7	id	199	time	-32571
+sent=1470, activity=1.50%
+from	8	id	198	time	198
+from	9	id	198	time	-32554
+from	9	id	199	time	-32571
+from	6	id	199	time	228
+sent=1480, activity=1.70%
+from	8	id	199	time	244
+from	7	id	201	time	-32557
+from	8	id	200	time	227
+from	5	id	200	time	-32530
+from	9	id	200	time	196
+sent=1490, activity=1.50%
+from	7	id	202	time	200
+from	9	id	201	time	-32540
+from	8	id	201	time	228
+sent=1500, activity=1.40%
+from	7	id	203	time	-32554
+from	8	id	203	time	-32569
+from	5	id	203	time	205
+sent=1510, activity=1.50%
+from	6	id	203	time	244
+from	8	id	204	time	-32539
+from	6	id	204	time	244
+from	9	id	204	time	-32555
+sent=1520, activity=1.60%
+from	7	id	205	time	197
+from	5	id	205	time	204
+sent=1530, activity=1.60%
+from	7	id	207	time	230
+from	8	id	206	time	-32571
+from	9	id	206	time	196
+sent=1540, activity=1.60%
+from	9	id	207	time	-32565
+from	6	id	207	time	198
+from	7	id	208	time	244
+from	8	id	208	time	229
+sent=1550, activity=1.50%
+from	9	id	208	time	-32572
+from	7	id	209	time	-32571
+from	7	id	210	time	212
+from	6	id	209	time	-32573
+sent=1560, activity=1.60%
+from	8	id	209	time	212
+from	9	id	210	time	-32571
+from	8	id	210	time	-32571
+from	5	id	210	time	251
+from	7	id	211	time	-32536
+sent=1570, activity=1.60%
+from	5	id	211	time	219
+from	8	id	211	time	-32570
+from	7	id	212	time	195
+from	6	id	211	time	-32571
+from	9	id	211	time	212
+from	8	id	212	time	-32539
+sent=1580, activity=1.60%
+from	7	id	213	time	196
+from	7	id	214	time	231
+from	6	id	213	time	-32537
+sent=1590, activity=1.40%
+from	8	id	213	time	-32556
+from	9	id	213	time	-32541
+from	9	id	214	time	212
+from	8	id	214	time	-32539
+sent=1600, activity=1.70%
+from	6	id	215	time	-32538
+from	5	id	215	time	253
+from	9	id	215	time	-32525
+from	8	id	215	time	-32540
+sent=1610, activity=1.60%
+from	8	id	216	time	228
+from	9	id	216	time	-32551
+sent=1620, activity=1.40%
+from	7	id	218	time	-32521
+from	6	id	217	time	198
+from	9	id	217	time	-32541
+from	9	id	218	time	199
+sent=1630, activity=1.30%
+from	7	id	219	time	229
+from	5	id	218	time	237
+from	5	id	219	time	-32565
+from	6	id	219	time	212
+sent=1640, activity=1.50%
+from	8	id	219	time	-32571
+from	9	id	219	time	195
+from	8	id	220	time	214
+sent=1650, activity=1.20%
+from	5	id	221	time	203
+from	9	id	222	time	-32569
+sent=1660, activity=1.30%
+from	8	id	222	time	231
+from	5	id	222	time	-32517
+from	7	id	223	time	-32524
+from	9	id	223	time	-32523
+sent=1670, activity=1.20%
+from	6	id	223	time	-32540
+from	8	id	223	time	199
+from	5	id	223	time	-32550
+from	8	id	224	time	232
+from	9	id	224	time	-32522
+from	7	id	225	time	211
+from	6	id	224	time	-32573
+sent=1680, activity=1.30%
+from	5	id	224	time	-32516
+from	6	id	225	time	211
+from	9	id	225	time	-32572
+from	8	id	225	time	197
+sent=1690, activity=1.10%
+from	8	id	226	time	-32552
+from	5	id	226	time	-32564
+from	6	id	226	time	211
+from	7	id	227	time	229
+sent=1700, activity=1.30%
+from	9	id	227	time	-32523
+from	5	id	227	time	-32518
+from	8	id	227	time	210
+from	6	id	227	time	230
+from	7	id	229	time	-32538
+sent=1710, activity=1.20%
+from	6	id	228	time	197
+from	9	id	228	time	-32524
+from	8	id	228	time	198
+from	8	id	229	time	212
+from	5	id	229	time	-32563
+sent=1720, activity=1.40%
+from	7	id	230	time	198
+from	6	id	229	time	228
+from	6	id	230	time	-32525
+from	9	id	230	time	247
+from	7	id	231	time	228
+sent=1730, activity=1.50%
+from	8	id	231	time	213
+from	6	id	232	time	-32539
+sent=1740, activity=1.60%
+from	9	id	232	time	244
+from	6	id	233	time	-32569
+from	7	id	234	time	195
+sent=1750, activity=1.30%
+from	8	id	233	time	213
+from	8	id	234	time	-32570
+from	9	id	234	time	-32539
+sent=1760, activity=1.50%
+from	8	id	235	time	-32556
+from	9	id	235	time	201
+sent=1770, activity=1.50%
+from	7	id	237	time	229
+from	6	id	236	time	-32573
+from	8	id	236	time	198
+from	9	id	237	time	-32571
+sent=1780, activity=1.40%
+from	8	id	237	time	-32571
+from	7	id	238	time	197
+from	8	id	238	time	-32539
+from	7	id	239	time	-32552
+sent=1790, activity=1.60%
+from	9	id	238	time	-32538
+from	9	id	239	time	211
+from	5	id	239	time	-32563
+sent=1800, activity=1.60%
+from	6	id	240	time	-32573
+from	7	id	241	time	199
+from	5	id	240	time	-32517
+from	8	id	240	time	-32571
+sent=1810, activity=1.60%
+from	6	id	241	time	-32574
+from	8	id	241	time	244
+sent=1820, activity=1.50%
+from	5	id	242	time	206
+from	7	id	243	time	-32569
+from	8	id	242	time	229
+from	9	id	242	time	213
+sent=1830, activity=1.50%
+from	5	id	243	time	-32531
+from	9	id	243	time	196
+from	6	id	243	time	196
+from	9	id	244	time	-32553
+sent=1840, activity=1.70%
+from	5	id	244	time	204
+from	6	id	244	time	-32558
+from	8	id	244	time	216
+from	7	id	246	time	245
+from	9	id	245	time	-32524
+sent=1850, activity=1.50%
+from	6	id	245	time	197
+from	9	id	246	time	-32556
+from	6	id	246	time	198
+from	8	id	246	time	-32570
+from	7	id	247	time	196
+sent=1860, activity=1.40%
+from	9	id	247	time	198
+from	7	id	248	time	-32524
+from	5	id	247	time	205
+from	5	id	248	time	-32532
+sent=1870, activity=1.30%
+from	8	id	248	time	248
+from	9	id	248	time	-32556
+from	6	id	249	time	-32555
+from	7	id	250	time	199
+sent=1880, activity=1.70%
+from	9	id	249	time	197
+from	9	id	250	time	-32556
+from	7	id	251	time	198
+sent=1890, activity=1.40%
+sent=1900, activity=1.60%
+from	7	id	253	time	226
+from	8	id	253	time	-32571
+from	5	id	253	time	-32549
+sent=1910, activity=1.70%
+from	9	id	253	time	-32555
+from	5	id	254	time	251
+sent=1920, activity=1.60%
+from	8	id	254	time	-32568
+from	9	id	255	time	-32536
+sent=1930, activity=1.60%
+from	6	id	255	time	245
+from	9	id	0	time	198
+from	8	id	0	time	-32568
+from	7	id	1	time	-32540
+sent=1940, activity=1.40%
+from	6	id	1	time	231
+from	7	id	2	time	-32572
+from	9	id	1	time	245
+from	8	id	1	time	-32537
+from	6	id	2	time	211
+sent=1950, activity=1.70%

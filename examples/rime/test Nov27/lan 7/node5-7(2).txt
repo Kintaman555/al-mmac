@@ -1,0 +1,7 @@
+sent=270, activity=4.30%
+sent=280, activity=4.20%
+sent=290, activity=4.40%
+sent=300, activity=4.60%
+sent=310, activity=4.40%
+sent=320, activity=4.10%
+sent=330, activity=4.50%

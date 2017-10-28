@@ -1,0 +1,59 @@
+sending slot 6
+slot 1, parent 1, max_prob 1, total 150 ==>  setting strategy, parent 255 
+slot 2, parent 1, max_prob 63, total 150 ==>  setting strategy, parent 1 
+slot 3, parent 1, max_prob 2, total 150 ==>  setting strategy, parent 255 
+slot 7, parent 1, max_prob 98, total 150 ==>  setting strategy, parent 1 
+slot 8, parent 0, max_prob 86, total 150 ==>  setting strategy, parent 0 
+slot 9, parent 1, max_prob 87, total 150 ==>  setting strategy, parent 1 
+slot 10, parent 1, max_prob 1, total 150 ==>  setting strategy, parent 255 
+slot 11, parent 0, max_prob 86, total 150 ==>  setting strategy, parent 0 
+slot 12, parent 1, max_prob 84, total 150 ==>  setting strategy, parent 1 
+slot 14, parent 0, max_prob 77, total 150 ==>  setting strategy, parent 0 
+slot 15, parent 1, max_prob 2, total 150 ==>  setting strategy, parent 255 
+sent=10, activity=9.40%
+sent=20, activity=7.90%
+sent=30, activity=7.90%
+sent=40, activity=8.0%
+sent=50, activity=8.10%
+sent=60, activity=8.0%
+sent=70, activity=8.10%
+sent=80, activity=7.90%
+sent=90, activity=7.90%
+sent=100, activity=7.90%
+sent=110, activity=8.10%
+sent=120, activity=7.90%
+sent=130, activity=8.0%
+sent=140, activity=8.0%
+sent=150, activity=8.20%
+sent=160, activity=8.10%
+sent=170, activity=8.10%
+sent=180, activity=8.0%
+sent=190, activity=8.20%
+sent=200, activity=8.0%
+sent=210, activity=8.20%
+sent=220, activity=8.0%
+sent=230, activity=8.0%
+sent=240, activity=8.20%
+sent=250, activity=8.0%
+sent=260, activity=8.0%
+sent=270, activity=8.10%
+sent=280, activity=7.80%
+sent=290, activity=8.10%
+sent=300, activity=8.0%
+sent=310, activity=8.0%
+sent=320, activity=7.90%
+sent=330, activity=7.90%
+sent=340, activity=8.0%
+sent=350, activity=8.0%
+sent=360, activity=7.80%
+sent=370, activity=7.90%
+sent=380, activity=7.70%
+sent=390, activity=7.70%
+sent=400, activity=8.0%
+sent=410, activity=7.80%
+sent=420, activity=8.0%
+sent=430, activity=8.0%
+sent=440, activity=8.20%
+sent=450, activity=7.80%
+sent=460, activity=8.0%
+sent=470, activity=7.70%

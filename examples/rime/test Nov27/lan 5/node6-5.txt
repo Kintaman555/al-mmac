@@ -1,0 +1,35 @@
+sending slot 2
+learning start
+slot 1, parent 0, max_prob 87, total 100 ==>  setting strategy, parent 0 
+slot 2, parent 1, max_prob 29, total 100 ==>  setting strategy, parent 255 
+slot 3, parent 1, max_prob 88, total 100 ==>  setting strategy, parent 1 
+slot 4, parent 1, max_prob 3, total 100 ==>  setting strategy, parent 255 
+slot 5, parent 1, max_prob 1, total 100 ==>  setting strategy, parent 255 
+slot 6, parent 0, max_prob 81, total 100 ==>  setting strategy, parent 0 
+slot 7, parent 1, max_prob 80, total 100 ==>  setting strategy, parent 1 
+slot 8, parent 1, max_prob 5, total 100 ==>  setting strategy, parent 255 
+slot 9, parent 1, max_prob 10, total 100 ==>  setting strategy, parent 255 
+slot 10, parent 1, max_prob 12, total 100 ==>  setting strategy, parent 255 
+slot 14, parent 1, max_prob 1, total 100 ==>  setting strategy, parent 255 
+slot 15, parent 1, max_prob 1, total 100 ==>  setting strategy, parent 255 
+sent=10, activity=7.30%
+sent=20, activity=4.50%
+sent=30, activity=4.50%
+sent=40, activity=4.60%
+sent=50, activity=4.20%
+sent=60, activity=4.50%
+sent=70, activity=4.40%
+sent=80, activity=4.40%
+sent=90, activity=4.40%
+sent=100, activity=4.60%
+sent=110, activity=4.50%
+sent=120, activity=4.60%
+sent=130, activity=4.40%
+sent=140, activity=4.50%
+sent=150, activity=4.50%
+sent=160, activity=4.60%
+sent=170, activity=4.50%
+sent=180, activity=4.60%
+sent=190, activity=4.50%
+sent=200, activity=4.50%
+sent=210, activity=4.70%

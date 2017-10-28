@@ -1,0 +1,75 @@
+sending slot 4
+slot 1, parent 1, max_prob 11, total 152 ==>  setting strategy, parent 255 
+slot 2, parent 1, max_prob 8, total 152 ==>  setting strategy, parent 255 
+slot 3, parent 0, max_prob 7, total 149 ==>  setting strategy, parent 255 
+slot 4, parent 0, max_prob 62, total 153 ==>  setting strategy, parent 0 
+slot 5, parent 1, max_prob 62, total 152 ==>  setting strategy, parent 1 
+slot 6, parent 1, max_prob 46, total 150 ==>  setting strategy, parent 1 
+slot 7, parent 1, max_prob 24, total 153 ==>  setting strategy, parent 255 
+slot 8, parent 1, max_prob 30, total 152 ==>  setting strategy, parent 255 
+slot 9, parent 1, max_prob 14, total 152 ==>  setting strategy, parent 255 
+slot 10, parent 0, max_prob 20, total 149 ==>  setting strategy, parent 255 
+slot 11, parent 1, max_prob 13, total 151 ==>  setting strategy, parent 255 
+slot 12, parent 0, max_prob 55, total 149 ==>  setting strategy, parent 0 
+slot 13, parent 1, max_prob 41, total 153 ==>  setting strategy, parent 1 
+slot 14, parent 1, max_prob 18, total 149 ==>  setting strategy, parent 255 
+slot 15, parent 0, max_prob 6, total 147 ==>  setting strategy, parent 255 
+sent	5	act	11.10%
+sent	10	act	11.0%
+sent	15	act	10.90%
+sent	20	act	10.90%
+sent	25	act	10.90%
+sent	30	act	10.90%
+sent	35	act	10.90%
+sent	40	act	10.90%
+sent	45	act	10.90%
+sent	50	act	10.80%
+sent	55	act	10.70%
+sent	60	act	10.80%
+sent	65	act	10.80%
+sent	70	act	10.80%
+sent	75	act	11.0%
+sent	80	act	11.0%
+sent	85	act	10.90%
+sent	90	act	10.90%
+sent	95	act	11.0%
+sent	100	act	11.0%
+sent	105	act	11.0%
+sent	110	act	11.0%
+sent	115	act	11.0%
+sent	120	act	11.0%
+sent	125	act	11.0%
+sent	130	act	10.90%
+sent	135	act	10.90%
+sent	140	act	10.90%
+sent	145	act	10.90%
+sent	150	act	10.90%
+sent	155	act	10.90%
+sent	160	act	10.90%
+sent	165	act	10.90%
+sent	170	act	10.90%
+sent	175	act	10.90%
+sent	180	act	11.0%
+sent	185	act	10.90%
+sent	190	act	11.0%
+sent	195	act	11.0%
+sent	200	act	11.0%
+sent	205	act	11.0%
+sent	210	act	11.0%
+sent	215	act	10.90%
+sent	220	act	10.90%
+sent	225	act	10.90%
+sent	230	act	10.90%
+sent	235	act	11.0%
+sent	240	act	11.0%
+sent	245	act	11.0%
+sent	250	act	11.0%
+sent	255	act	11.10%
+sent	260	act	11.10%
+sent	265	act	11.0%
+sent	270	act	11.0%
+sent	275	act	11.10%
+sent	280	act	11.0%
+sent	285	act	11.0%
+sent	290	act	11.0%
+sent	295	act	11.0%

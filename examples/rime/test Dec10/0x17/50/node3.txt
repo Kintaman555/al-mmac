@@ -1,0 +1,29 @@
+sending slot 13
+slot	1	s	9	p	1	total	151	set	255
+slot	14	s	10	p	99	total	149	set	10
+slot	15	s	10	p	1	total	152	set	255
+sent	5	act	6.30%
+sent	10	act	6.40%
+sent	15	act	6.40%
+sent	20	act	6.40%
+sent	25	act	6.40%
+sent	30	act	6.40%
+sent	35	act	6.50%
+sent	40	act	6.50%
+sent	45	act	6.60%
+sent	50	act	6.50%
+sent	55	act	6.50%
+sent	60	act	6.50%
+sent	65	act	6.40%
+sent	70	act	6.40%
+sent	75	act	6.50%
+sent	80	act	6.50%
+sent	85	act	6.50%
+sent	90	act	6.50%
+sent	95	act	6.50%
+sent	100	act	6.50%
+sent	105	act	6.50%
+sent	110	act	6.40%
+sent	115	act	6.50%
+sent	120	act	6.50%
+sent	125	act	6.50%

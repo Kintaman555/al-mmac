@@ -1,0 +1,16 @@
+bc-from	1	LQI	107
+bc-from	1	LQI	106
+bc-from	1	LQI	107
+bc-from	1	LQI	106
+bc-from	1	LQI	105
+bc-from	1	LQI	107
+bc-from	1	LQI	107
+bc-from	1	LQI	107
+bc-from	1	LQI	104
+bc-from	1	LQI	106
+bc-from	1	LQI	107
+bc-from	1	LQI	107
+sending slot 14
+slot 15, parent 7, max_prob 71, total 151 ==>  setting strategy, parent 7 
+sent=10, activity=4.70%
+sent=20, activity=1.30%

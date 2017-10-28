@@ -1,0 +1,13 @@
+sending slot 3
+slot 4, parent 10, max_prob 97, total 150 ==>  setting strategy, parent 10 
+sent=10, activity=4.80%
+sent=20, activity=1.60%
+sent=30, activity=1.60%
+sent=40, activity=1.50%
+sent=50, activity=1.70%
+sent=60, activity=1.60%
+sent=70, activity=1.50%
+sent=80, activity=1.70%
+sent=90, activity=1.70%
+sent=100, activity=1.70%
+sent=110, activity=1.60%
